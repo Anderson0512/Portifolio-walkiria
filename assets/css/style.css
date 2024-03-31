@@ -67,7 +67,7 @@ header .coluna img{
     max-width: 100%;
 }
 header .coluna h1{
-    font-size: 1.5rem;
+    font-size: 1.4rem;
     color: var(--corTextoSecundaria);
 }
 header .coluna p{
@@ -125,7 +125,7 @@ footer nav .info-contato li{
     margin: 0 0 20px;
 
 }
-footer nav .info-contato li a{
+footer nav .info-contato li a,p{
     color:white;
 }
 footer nav .info-contato li i{
